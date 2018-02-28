@@ -7,4 +7,3 @@ RUN apt-get update \
  && chmod a+x /root/lkl/start.sh 
 
 CMD /root/lkl/start.sh
-
